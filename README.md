@@ -89,3 +89,16 @@
 <img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
+
+
+# 🚀 Featured Projects
+
+| 🚀 Project | 🛠️ Tech Stack | 💡 Description |
+|:---|:---|:---|
+| 🤖 [InterviewIQ](https://github.com/Ayush88811/InterviewIQ) | MERN + Gemini API | AI-powered interview platform with resume analysis, AI-generated questions and performance reports. |
+| 🚗 [GrandRide](https://github.com/Ayush88811/carbooking) | MERN Stack | Full-stack car rental platform with authentication, booking and payment-ready architecture. |
+| 🌐 [Portfolio](https://ayushportfolio24.vercel.app/) | React.js | Personal portfolio showcasing my skills, projects and development journey. |
+
+<p align="center">
+  <b>💻 Building real projects. 🚀 Solving real problems. 📚 Learning every day.</b>
+</p>

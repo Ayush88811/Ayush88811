@@ -17,57 +17,8 @@
 
 ## 👨‍💻 About Me
 
-```javascript
-const ayush = {
-    name: "Ayush Verma",
-    role: "Full Stack Developer",
-    education: "B.Tech in Computer Science",
-    college: "Rajkiya Engineering College Sonbhadra",
-
-    frontend: [
-        "HTML5",
-        "CSS3",
-        "JavaScript",
-        "React.js"
-    ],
-
-    backend: [
-        "Node.js",
-        "Express.js",
-        "REST APIs"
-    ],
-
-    database: [
-        "MongoDB"
-    ],
-
-    authentication: [
-        "JWT",
-        "Firebase Authentication"
-    ],
-
-    programming: [
-        "C++",
-        "JavaScript"
-    ],
-
-    tools: [
-        "Git",
-        "GitHub",
-        "VS Code"
-    ],
-
-    currentlyLearning: [
-        "Advanced React",
-        "Node.js",
-        "Data Structures & Algorithms",
-        "System Design"
-    ],
-
-    interests: [
-        "Full Stack Development",
-        "Web Development",
-        "Problem Solving",
-        "AI Integration"
-    ]
-};
+- 🎓 B.Tech Computer Science student at Rajkiya Engineering College Sonbhadra
+- 💻 Full Stack Developer specializing in the MERN Stack
+- 🚀 Building scalable web applications and AI-powered projects
+- 🧠 Currently improving DSA, System Design & Backend Development
+- 🤝 Open to internships, collaborations and development opportunities

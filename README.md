@@ -160,7 +160,6 @@
 - 🚘 Car listing and browsing
 - 🔐 User authentication
 - 📅 Booking system
-- 💳 Payment-ready architecture
 - 📱 Responsive interface
 - 🗄️ MongoDB database
 
@@ -187,22 +186,6 @@
 
 ---
 
-# 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ayush88811&theme=tokyonight&hide_border=true&border_radius=10"/>
-</p>
-
----
-
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush88811&bg_color=0d1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true"/>
-</p>
-
----
 
 # 🧠 DSA & Problem Solving
 

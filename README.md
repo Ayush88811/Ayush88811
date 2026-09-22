@@ -120,30 +120,10 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ayush88811&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush88811&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</p>
-
----
-
 ## 🔥 Contribution Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Ayush88811&theme=tokyonight&hide_border=true&border_radius=10"/>
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush88811&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
 ---
